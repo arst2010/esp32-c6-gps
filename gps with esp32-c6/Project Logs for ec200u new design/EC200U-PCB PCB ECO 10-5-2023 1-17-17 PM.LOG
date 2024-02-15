@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator= NewDesignator=IC1
+Added Member To Class: ClassName=ec200u main Member=Component STATUS1 Red
+Added Member To Class: ClassName=ec200u main Member=Component U7 EC200UCNAA-N05-SGNSA
+Added Room: Name=ec200u main

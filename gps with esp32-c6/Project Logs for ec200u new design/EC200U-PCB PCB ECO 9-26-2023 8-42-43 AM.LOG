@@ -1,0 +1,45 @@
+Added Component: Designator=POWER SW1(PCBComponent_1)
+Added Component: Designator=RESET SW1(PCBComponent_1)
+Added Component: Designator=U5(SOP65P640X120-20N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TXS0108EPWR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TXS0108EPWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TSSOP-20 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TXS0108EPWR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TXS0108EPWR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=USB BOOT SW1(PCBComponent_1)
+Add Pin To Net: Unknown Pin: Pin MICRO SD1-10
+Add Pin To Net: Unknown Pin: Pin MICRO SD1-11
+Add Pin To Net: Unknown Pin: Pin MICRO SD1-12
+Add Pin To Net: Unknown Pin: Pin MICRO SD1-13
+Added Pin To Net: NetName=NetLabel49 Pin=POWER SW1-1
+Added Pin To Net: NetName=KEY_POWER Pin=POWER SW1-2
+Added Pin To Net: NetName=NetLabel49 Pin=RESET SW1-1
+Added Pin To Net: NetName=KEY_RESET Pin=RESET SW1-2
+Added Pin To Net: NetName=NetLabel49 Pin=U5-1
+Added Pin To Net: NetName=VDD_EXTERNAL Pin=U5-2
+Added Pin To Net: NetName=TX_MAIN Pin=U5-3
+Added Pin To Net: NetName=RX_MAIN Pin=U5-4
+Added Pin To Net: NetName=RX_AUX Pin=U5-5
+Added Pin To Net: NetName=TX_AUX Pin=U5-6
+Added Pin To Net: NetName=TX_DEBUG Pin=U5-7
+Added Pin To Net: NetName=RX_DEBUG Pin=U5-8
+Added Pin To Net: NetName=NetR32_1 Pin=U5-10
+Added Pin To Net: NetName=NetLabel49 Pin=U5-11
+Added Pin To Net: NetName=NetDEBUG OUT1_2 Pin=U5-13
+Added Pin To Net: NetName=NetDEBUG OUT1_1 Pin=U5-14
+Added Pin To Net: NetName=GPS_RX_AUX Pin=U5-15
+Added Pin To Net: NetName=GPS_TX_AUX Pin=U5-16
+Added Pin To Net: NetName=ESP_GPS_TX Pin=U5-17
+Added Pin To Net: NetName=ESP_GPS_RX Pin=U5-18
+Added Pin To Net: NetName=3V3 Pin=U5-19
+Added Pin To Net: NetName=NetLabel49 Pin=U5-20
+Added Pin To Net: NetName=NetR53_2 Pin=USB BOOT SW1-1
+Added Pin To Net: NetName=NetR58_2 Pin=USB BOOT SW1-2
+Added Member To Class: ClassName=ec200u main Member=Component POWER SW1 Switch PB
+Added Member To Class: ClassName=ec200u main Member=Component RESET SW1 Switch PB
+Added Member To Class: ClassName=ec200u main Member=Component U5 TXS0108EPWR
+Added Member To Class: ClassName=ec200u main Member=Component USB BOOT SW1 Switch PB

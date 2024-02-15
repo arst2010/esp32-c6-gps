@@ -1,0 +1,140 @@
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=GND Pin=Q3-2
+Removed Pin From Net: NetName=GND Pin=Q4-2
+Removed Pin From Net: NetName=GND Pin=Q6-2
+Removed Pin From Net: NetName=GND Pin=Q7-2
+Removed Pin From Net: NetName=GND Pin=R46-1
+Removed Pin From Net: NetName=3V3 Pin=R47-2
+Removed Pin From Net: NetName=3V3 Pin=R48-2
+Removed Pin From Net: NetName=GND Pin=R50-1
+Removed Pin From Net: NetName=GND Pin=R52-1
+Removed Pin From Net: NetName=3V3 Pin=R53-2
+Removed Pin From Net: NetName=3V3 Pin=R54-2
+Removed Pin From Net: NetName=GND Pin=R56-1
+Removed Pin From Net: NetName=3V3 Pin=R58-2
+Removed Pin From Net: NetName=GND Pin=R59-1
+Removed Pin From Net: NetName=3V3 Pin=R60-2
+Removed Pin From Net: NetName=GND Pin=R62-1
+Removed Member From Class: ClassName=ec200u main Member=Q1
+Removed Member From Class: ClassName=ec200u main Member=Q2
+Removed Member From Class: ClassName=ec200u main Member=Q3
+Removed Member From Class: ClassName=ec200u main Member=Q4
+Removed Member From Class: ClassName=ec200u main Member=Q6
+Removed Member From Class: ClassName=ec200u main Member=Q7
+Removed Member From Class: ClassName=ec200u main Member=R45
+Removed Member From Class: ClassName=ec200u main Member=R46
+Removed Member From Class: ClassName=ec200u main Member=R47
+Removed Member From Class: ClassName=ec200u main Member=R48
+Removed Member From Class: ClassName=ec200u main Member=R49
+Removed Member From Class: ClassName=ec200u main Member=R50
+Removed Member From Class: ClassName=ec200u main Member=R51
+Removed Member From Class: ClassName=ec200u main Member=R52
+Removed Member From Class: ClassName=ec200u main Member=R53
+Removed Member From Class: ClassName=ec200u main Member=R54
+Removed Member From Class: ClassName=ec200u main Member=R55
+Removed Member From Class: ClassName=ec200u main Member=R56
+Removed Member From Class: ClassName=ec200u main Member=R57
+Removed Member From Class: ClassName=ec200u main Member=R58
+Removed Member From Class: ClassName=ec200u main Member=R59
+Removed Member From Class: ClassName=ec200u main Member=R60
+Removed Member From Class: ClassName=ec200u main Member=R61
+Removed Member From Class: ClassName=ec200u main Member=R62
+Change Footprint: Footprint Not Found AMPHENOL_10155435-00011LF
+Add Component: Footprint Not Found TRANS_BC847B
+Add Component: Footprint Not Found TRANS_BC847B
+Add Component: Footprint Not Found XCVR_ESP32-C6-WROOM-1-N8
+Add Component: Footprint Not Found AMPHENOL_10155435-00011LF
+Add Component: Footprint Not Found AMPHENOL_10155435-00011LF
+Add Component: Footprint Not Found PCBComponent_1
+Add Pin To Net: Unknown Pin: Pin Q18-1
+Add Pin To Net: Unknown Pin: Pin Q18-2
+Add Pin To Net: Unknown Pin: Pin Q18-3
+Add Pin To Net: Unknown Pin: Pin Q19-1
+Add Pin To Net: Unknown Pin: Pin Q19-2
+Add Pin To Net: Unknown Pin: Pin Q19-3
+Add Pin To Net: Unknown Pin: Pin U8-1
+Add Pin To Net: Unknown Pin: Pin U8-2
+Add Pin To Net: Unknown Pin: Pin U8-3
+Add Pin To Net: Unknown Pin: Pin U8-4
+Add Pin To Net: Unknown Pin: Pin U8-5
+Add Pin To Net: Unknown Pin: Pin U8-6
+Add Pin To Net: Unknown Pin: Pin U8-7
+Add Pin To Net: Unknown Pin: Pin U8-8
+Add Pin To Net: Unknown Pin: Pin U8-9
+Add Pin To Net: Unknown Pin: Pin U8-10
+Add Pin To Net: Unknown Pin: Pin U8-11
+Add Pin To Net: Unknown Pin: Pin U8-12
+Add Pin To Net: Unknown Pin: Pin U8-15
+Add Pin To Net: Unknown Pin: Pin U8-16
+Add Pin To Net: Unknown Pin: Pin U8-17
+Add Pin To Net: Unknown Pin: Pin U8-18
+Add Pin To Net: Unknown Pin: Pin U8-19
+Add Pin To Net: Unknown Pin: Pin U8-20
+Add Pin To Net: Unknown Pin: Pin U8-21
+Add Pin To Net: Unknown Pin: Pin U8-24
+Add Pin To Net: Unknown Pin: Pin U8-25
+Add Pin To Net: Unknown Pin: Pin U8-26
+Add Pin To Net: Unknown Pin: Pin U8-27
+Add Pin To Net: Unknown Pin: Pin U8-28
+Add Pin To Net: Unknown Pin: Pin U8-29_1
+Add Pin To Net: Unknown Pin: Pin U8-29_2
+Add Pin To Net: Unknown Pin: Pin U8-29_3
+Add Pin To Net: Unknown Pin: Pin U8-29_4
+Add Pin To Net: Unknown Pin: Pin U8-29_5
+Add Pin To Net: Unknown Pin: Pin U8-29_6
+Add Pin To Net: Unknown Pin: Pin U8-29_7
+Add Pin To Net: Unknown Pin: Pin U8-29_8
+Add Pin To Net: Unknown Pin: Pin U8-29_9
+Add Pin To Net: Unknown Pin: Pin USB2-A1_B12
+Add Pin To Net: Unknown Pin: Pin USB2-A4_B9
+Add Pin To Net: Unknown Pin: Pin USB2-A5
+Add Pin To Net: Unknown Pin: Pin USB2-A6
+Add Pin To Net: Unknown Pin: Pin USB2-A7
+Add Pin To Net: Unknown Pin: Pin USB2-B1_A12
+Add Pin To Net: Unknown Pin: Pin USB2-B4_A9
+Add Pin To Net: Unknown Pin: Pin USB2-B5
+Add Pin To Net: Unknown Pin: Pin USB2-B6
+Add Pin To Net: Unknown Pin: Pin USB2-B7
+Add Pin To Net: Unknown Pin: Pin USB2-SH1
+Add Pin To Net: Unknown Pin: Pin USB2-SH2
+Add Pin To Net: Unknown Pin: Pin USB2-SH3
+Add Pin To Net: Unknown Pin: Pin USB2-SH4
+Add Pin To Net: Unknown Pin: Pin USB3-A1_B12
+Add Pin To Net: Unknown Pin: Pin USB3-A4_B9
+Add Pin To Net: Unknown Pin: Pin USB3-A5
+Add Pin To Net: Unknown Pin: Pin USB3-A6
+Add Pin To Net: Unknown Pin: Pin USB3-A7
+Add Pin To Net: Unknown Pin: Pin USB3-B1_A12
+Add Pin To Net: Unknown Pin: Pin USB3-B4_A9
+Add Pin To Net: Unknown Pin: Pin USB3-B5
+Add Pin To Net: Unknown Pin: Pin USB3-B6
+Add Pin To Net: Unknown Pin: Pin USB3-B7
+Add Pin To Net: Unknown Pin: Pin USB3-SH1
+Add Pin To Net: Unknown Pin: Pin USB3-SH2
+Add Pin To Net: Unknown Pin: Pin USB3-SH3
+Add Pin To Net: Unknown Pin: Pin USB3-SH4
+Add Pin To Net: Unknown Pin: Pin USB5-A1_B12
+Add Pin To Net: Unknown Pin: Pin USB5-A4_B9
+Add Pin To Net: Unknown Pin: Pin USB5-A5
+Add Pin To Net: Unknown Pin: Pin USB5-B1_A12
+Add Pin To Net: Unknown Pin: Pin USB5-B4_A9
+Add Pin To Net: Unknown Pin: Pin USB5-B5
+Add Pin To Net: Unknown Pin: Pin USB5-SH1
+Add Pin To Net: Unknown Pin: Pin USB5-SH2
+Add Pin To Net: Unknown Pin: Pin USB5-SH3
+Add Pin To Net: Unknown Pin: Pin USB5-SH4
+Add Pin To Net: Unknown Pin: Pin Y2-1
+Add Pin To Net: Unknown Pin: Pin Y2-2
+Added Pin To Net: NetName=GPIO12 Pin=D11-2
+Added Net: Name=GPIO12
+Added Pin To Net: NetName=GPIO13 Pin=D27-2
+Added Net: Name=GPIO13
+Add Differential Pair: Number of nets in differential pair GPIO12 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair GPIO13 is 1 instead of 2
+Add Class Member: Failed to add class member : Component Q18 BC847B
+Add Class Member: Failed to add class member : Component Q19 BC847B
+Add Class Member: Failed to add class member : Component U8 ESP32-C6-WROOM-1-N8
+Add Class Member: Failed to add class member : Component USB3 USB TYPE C 16 PIN
+Add Class Member: Failed to add class member : Component USB5 USB TYPE C 16 PIN
+Add Class Member: Failed to add class member : Component Y2 12 MHz

@@ -1,0 +1,2 @@
+Remove Pin=IC1-8 From Net=TX_MAIN
+Add Pin To Net: Pin=IC1-8 Old Net=TX_MAIN New Net=RX_MAIN

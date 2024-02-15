@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=ANT_MAIN Pin=LPRS CON1-1
+Removed Pin From Net: NetName=GND Pin=LPRS CON1-G1
+Removed Pin From Net: NetName=GND Pin=LPRS CON1-G2
+Removed Pin From Net: NetName=GND Pin=LPRS CON1-G3
+Removed Pin From Net: NetName=GND Pin=LPRS CON1-G4
+Removed Pin From Net: NetName=GND Pin=SIM1-MP1
+Removed Pin From Net: NetName=GND Pin=SIM1-MP2
+Removed Member From Class: ClassName=ec200u main Member=LPRS CON1
+Added Component: Designator=C21(CAPC2012X140N)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "CAP SMD 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=L3(INDM3225X240N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.tdk.co.jp/tefe02/e511_nlcv_nlc.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.tdk.co.jp/tefe02/e511_nlcv_nlc.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "115 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency - Self Resonant"; Value = "68MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency - Test"; Value = "7.96MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "NLCV32T-2R2M-PFR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Q @ Freq"; Value = "15 @ 7.96MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1.2 Adc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-3650-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ferrite Core"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6.8NH"; VariantName = "[No Variations]"
+Added Component: Designator=MAIN ANT(XDCR_ANT-LTE-CER-T)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ANT-LTE-CER-T/Linx%20Technologies%20Inc./view-part/2769557/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Linx Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ANT-LTE-CER-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ANT-LTE-CER-T/Linx%20Technologies%20Inc./view-part/2769557/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ANT_MAIN Pin=C21-2
+Added Pin To Net: NetName=GND Pin=L3-1
+Added Pin To Net: NetName=NetC21_1 Pin=C21-1
+Added Pin To Net: NetName=NetC21_1 Pin=L3-2
+Added Pin To Net: NetName=NetC21_1 Pin=MAIN ANT-1
+Added Net: Name=NetC21_1
+Added Pin To Net: NetName=NetMAIN ANT_2 Pin=MAIN ANT-2
+Added Pin To Net: NetName=NetMAIN ANT_2 Pin=MAIN ANT-3
+Added Net: Name=NetMAIN ANT_2
+Added Member To Class: ClassName=ec200u main Member=Component C21 3PF
+Added Member To Class: ClassName=ec200u main Member=Component L3 6.8NH
+Added Member To Class: ClassName=ec200u main Member=Component MAIN ANT ANT-LTE-CER-T
+Added Room: Name=ec200u main

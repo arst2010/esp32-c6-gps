@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R25 Old Footprint=RESC4817X04N New Footprint=RESC2012X65N
+Added Member To Class: ClassName=ec200u main Member=Component C3 470uF
+Added Member To Class: ClassName=ec200u main Member=Component F1 F=4A
+Added Room: Name=ec200u main

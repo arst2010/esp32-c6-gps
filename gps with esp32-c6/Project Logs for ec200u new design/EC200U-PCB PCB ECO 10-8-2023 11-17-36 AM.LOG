@@ -1,0 +1,142 @@
+Removed Pin From Net: NetName=GND Pin=P1-19
+Added Member To Class: ClassName=ec200u main Member=Component C1 470uF
+Added Member To Class: ClassName=ec200u main Member=Component C2 470uF
+Added Member To Class: ClassName=ec200u main Member=Component C4 1uF
+Added Member To Class: ClassName=ec200u main Member=Component C5 220uF
+Added Member To Class: ClassName=ec200u main Member=Component C6 100NF
+Added Member To Class: ClassName=ec200u main Member=Component C7 100pF
+Added Member To Class: ClassName=ec200u main Member=Component C8 100nF
+Added Member To Class: ClassName=ec200u main Member=Component C10 100nF
+Added Member To Class: ClassName=ec200u main Member=Component C11 100nF
+Added Member To Class: ClassName=ec200u main Member=Component C13 100nF
+Added Member To Class: ClassName=ec200u main Member=Component C14 22pF
+Added Member To Class: ClassName=ec200u main Member=Component C15 .1uF
+Added Member To Class: ClassName=ec200u main Member=Component C16 22pf
+Added Member To Class: ClassName=ec200u main Member=Component C17 3PF
+Added Member To Class: ClassName=ec200u main Member=Component C18 100nF
+Added Member To Class: ClassName=ec200u main Member=Component C21 100nF
+Added Member To Class: ClassName=ec200u main Member=Component D1 1n4007 SMD
+Added Member To Class: ClassName=ec200u main Member=Component D2 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component D3 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component D4 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component D5 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component D6 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component D7 1n5822
+Added Member To Class: ClassName=ec200u main Member=Component D8 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component D9 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component D11 1n4007 SMD
+Added Member To Class: ClassName=ec200u main Member=Component D12 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component D13 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component D14 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component D15 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component D16 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component D17 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component D18 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component ESP STATUS1 Red
+Added Member To Class: ClassName=ec200u main Member=Component F1 F=1.0 A
+Added Member To Class: ClassName=ec200u main Member=Component F2 F=4A
+Added Member To Class: ClassName=ec200u main Member=Component H1 HOLE
+Added Member To Class: ClassName=ec200u main Member=Component H2 HOLE
+Added Member To Class: ClassName=ec200u main Member=Component IC1 ESP32-WROVER
+Added Member To Class: ClassName=ec200u main Member=Component L1 DRC-V-822K
+Added Member To Class: ClassName=ec200u main Member=Component L2 NLCV32T
+Added Member To Class: ClassName=ec200u main Member=Component LED1 Red
+Added Member To Class: ClassName=ec200u main Member=Component LED2 Red
+Added Member To Class: ClassName=ec200u main Member=Component MAIN ANT1 ANT-LTE-CER-T
+Added Member To Class: ClassName=ec200u main Member=Component MICRO SD1 Micro SD CARD HEADER
+Added Member To Class: ClassName=ec200u main Member=Component NET MODE1 Red
+Added Member To Class: ClassName=ec200u main Member=Component NET STATUS1 Red
+Added Member To Class: ClassName=ec200u main Member=Component P1 Header 19
+Added Member To Class: ClassName=ec200u main Member=Component PORGRAM1 Switch PB
+Added Member To Class: ClassName=ec200u main Member=Component Q1 MMBT3904
+Added Member To Class: ClassName=ec200u main Member=Component Q2 MMBT3904
+Added Member To Class: ClassName=ec200u main Member=Component Q3 MMBT3904
+Added Member To Class: ClassName=ec200u main Member=Component Q4 MMBT3904
+Added Member To Class: ClassName=ec200u main Member=Component Q5 BSS138
+Added Member To Class: ClassName=ec200u main Member=Component Q6 MMBT3904
+Added Member To Class: ClassName=ec200u main Member=Component Q7 MMBT3904
+Added Member To Class: ClassName=ec200u main Member=Component Q8 BSS138
+Added Member To Class: ClassName=ec200u main Member=Component Q9 BSS138
+Added Member To Class: ClassName=ec200u main Member=Component Q10 S8050
+Added Member To Class: ClassName=ec200u main Member=Component Q11 S8050
+Added Member To Class: ClassName=ec200u main Member=Component Q12 BSS138
+Added Member To Class: ClassName=ec200u main Member=Component Q13 S8050
+Added Member To Class: ClassName=ec200u main Member=Component Q14 BSS138
+Added Member To Class: ClassName=ec200u main Member=Component Q15 S8050
+Added Member To Class: ClassName=ec200u main Member=Component Q16 S8050
+Added Member To Class: ClassName=ec200u main Member=Component Q17 BSS138
+Added Member To Class: ClassName=ec200u main Member=Component R1 1K
+Added Member To Class: ClassName=ec200u main Member=Component R2 1K
+Added Member To Class: ClassName=ec200u main Member=Component R3 10K
+Added Member To Class: ClassName=ec200u main Member=Component R4 10K
+Added Member To Class: ClassName=ec200u main Member=Component R5 10K
+Added Member To Class: ClassName=ec200u main Member=Component R6 10K
+Added Member To Class: ClassName=ec200u main Member=Component R7 4.7K
+Added Member To Class: ClassName=ec200u main Member=Component R8 120
+Added Member To Class: ClassName=ec200u main Member=Component R9 4.7K
+Added Member To Class: ClassName=ec200u main Member=Component R10 10
+Added Member To Class: ClassName=ec200u main Member=Component R11 330
+Added Member To Class: ClassName=ec200u main Member=Component R12 330
+Added Member To Class: ClassName=ec200u main Member=Component R13 4.7K
+Added Member To Class: ClassName=ec200u main Member=Component R14 4.7K
+Added Member To Class: ClassName=ec200u main Member=Component R15 330
+Added Member To Class: ClassName=ec200u main Member=Component R16 100K
+Added Member To Class: ClassName=ec200u main Member=Component R17 100K
+Added Member To Class: ClassName=ec200u main Member=Component R18 2.2K
+Added Member To Class: ClassName=ec200u main Member=Component R19 2.2K
+Added Member To Class: ClassName=ec200u main Member=Component R20 2.2K
+Added Member To Class: ClassName=ec200u main Member=Component R21 4.7K
+Added Member To Class: ClassName=ec200u main Member=Component R22 47K
+Added Member To Class: ClassName=ec200u main Member=Component R23 120K
+Added Member To Class: ClassName=ec200u main Member=Component R24 4.7K
+Added Member To Class: ClassName=ec200u main Member=Component R25 47K
+Added Member To Class: ClassName=ec200u main Member=Component R26 4.7K
+Added Member To Class: ClassName=ec200u main Member=Component R27 10K
+Added Member To Class: ClassName=ec200u main Member=Component R28 4.7K
+Added Member To Class: ClassName=ec200u main Member=Component R29 47K
+Added Member To Class: ClassName=ec200u main Member=Component R30 47K
+Added Member To Class: ClassName=ec200u main Member=Component R31 0
+Added Member To Class: ClassName=ec200u main Member=Component R32 100K
+Added Member To Class: ClassName=ec200u main Member=Component R33 100K
+Added Member To Class: ClassName=ec200u main Member=Component R34 0
+Added Member To Class: ClassName=ec200u main Member=Component R35 4.7K
+Added Member To Class: ClassName=ec200u main Member=Component R36 330
+Added Member To Class: ClassName=ec200u main Member=Component R37 4.7K
+Added Member To Class: ClassName=ec200u main Member=Component R38 4.7K
+Added Member To Class: ClassName=ec200u main Member=Component R39 1K
+Added Member To Class: ClassName=ec200u main Member=Component R40 10K
+Added Member To Class: ClassName=ec200u main Member=Component R41 10K
+Added Member To Class: ClassName=ec200u main Member=Component R42 0
+Added Member To Class: ClassName=ec200u main Member=Component R43 10K
+Added Member To Class: ClassName=ec200u main Member=Component R44 1K
+Added Member To Class: ClassName=ec200u main Member=Component R45 47K
+Added Member To Class: ClassName=ec200u main Member=Component R46 47K
+Added Member To Class: ClassName=ec200u main Member=Component R47 10K
+Added Member To Class: ClassName=ec200u main Member=Component R48 10K
+Added Member To Class: ClassName=ec200u main Member=Component R49 47K
+Added Member To Class: ClassName=ec200u main Member=Component R50 47K
+Added Member To Class: ClassName=ec200u main Member=Component R51 47K
+Added Member To Class: ClassName=ec200u main Member=Component R52 47K
+Added Member To Class: ClassName=ec200u main Member=Component R53 10K
+Added Member To Class: ClassName=ec200u main Member=Component R54 10K
+Added Member To Class: ClassName=ec200u main Member=Component R55 47K
+Added Member To Class: ClassName=ec200u main Member=Component R56 47K
+Added Member To Class: ClassName=ec200u main Member=Component R57 47K
+Added Member To Class: ClassName=ec200u main Member=Component R58 10K
+Added Member To Class: ClassName=ec200u main Member=Component R59 47K
+Added Member To Class: ClassName=ec200u main Member=Component R60 10K
+Added Member To Class: ClassName=ec200u main Member=Component R61 47K
+Added Member To Class: ClassName=ec200u main Member=Component R62 47K
+Added Member To Class: ClassName=ec200u main Member=Component R63 10K
+Added Member To Class: ClassName=ec200u main Member=Component RESET1 Switch PB
+Added Member To Class: ClassName=ec200u main Member=Component STATUS1 Red
+Added Member To Class: ClassName=ec200u main Member=Component U1 MIC29302WU-TR
+Added Member To Class: ClassName=ec200u main Member=Component U2 LM2596S-3.3_NOPB
+Added Member To Class: ClassName=ec200u main Member=Component U3 TXS0108EPWR
+Added Member To Class: ClassName=ec200u main Member=Component U4
+Added Member To Class: ClassName=ec200u main Member=Component U5 MAX485
+Added Member To Class: ClassName=ec200u main Member=Component U6 SM712
+Added Member To Class: ClassName=ec200u main Member=Component U7 EC200UCNAA-N05-SGNSA
+Added Member To Class: ClassName=ec200u main Member=Component USB1 USB Connector
+Added Member To Class: ClassName=ec200u main Member=Component USB2 USB Connector
+Added Room: Name=ec200u main

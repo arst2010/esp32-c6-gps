@@ -1,0 +1,106 @@
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC7_2
+Change Net Name : Old Net Name=NetC14_1 New Net Name=NetC16_1
+Change Net Name : Old Net Name=NetC15_2 New Net Name=NetC14_2
+Change Net Name : Old Net Name=NetC16_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetC17_1 New Net Name=NetC21_1
+Change Net Name : Old Net Name=NetC21_1 New Net Name=NetC17_1
+Change Net Name : Old Net Name=NetD3_A New Net Name=NetD7_A
+Change Net Name : Old Net Name=NetD8_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetESP STATUS_2 New Net Name=NetESP STATUS1_2
+Change Net Name : Old Net Name=NetL1_2 New Net Name=NetL2_2
+Change Net Name : Old Net Name=NetLED4_2 New Net Name=NetLED2_2
+Change Net Name : Old Net Name=NetLED5_2 New Net Name=NetLED1_2
+Change Net Name : Old Net Name=NetMAIN ANT_2 New Net Name=NetMAIN ANT1_2
+Change Net Name : Old Net Name=NetNET MODE_2 New Net Name=NetNET MODE1_2
+Change Net Name : Old Net Name=NetNET STATUS_2 New Net Name=NetNET STATUS1_2
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=NetQ11_1
+Change Net Name : Old Net Name=NetQ1_3 New Net Name=NetQ11_3
+Change Net Name : Old Net Name=NetQ2_1 New Net Name=NetQ10_1
+Change Net Name : Old Net Name=NetQ2_3 New Net Name=NetQ10_3
+Change Net Name : Old Net Name=NetQ3_1 New Net Name=NetQ12_1
+Change Net Name : Old Net Name=NetQ4_3 New Net Name=NetQ9_3
+Change Net Name : Old Net Name=NetQ5_3 New Net Name=NetQ8_3
+Change Net Name : Old Net Name=NetQ6_3 New Net Name=NetQ5_3
+Change Net Name : Old Net Name=NetQ7_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetQ8_1 New Net Name=NetQ7_1
+Change Net Name : Old Net Name=NetQ9_1 New Net Name=NetQ4_1
+Change Net Name : Old Net Name=NetQ10_1 New Net Name=NetQ17_1
+Change Net Name : Old Net Name=NetQ11_1 New Net Name=NetQ14_1
+Change Net Name : Old Net Name=NetQ12_1 New Net Name=NetQ6_1
+Change Net Name : Old Net Name=NetQ13_1 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=NetQ14_1 New Net Name=NetQ3_1
+Change Net Name : Old Net Name=NetQ15_1 New Net Name=NetQ13_1
+Change Net Name : Old Net Name=NetQ16_1 New Net Name=NetQ15_1
+Change Net Name : Old Net Name=NetQ17_1 New Net Name=NetQ16_1
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetR18_2
+Change Net Name : Old Net Name=NetR18_1 New Net Name=NetR16_2
+Change Net Name : Old Net Name=NetR32_1 New Net Name=NetR23_1
+Change Net Name : Old Net Name=NetR53_2 New Net Name=NetR35_2
+Change Net Name : Old Net Name=NetR58_2 New Net Name=NetR34_2
+Added Member To Class: ClassName=ec200u main Member=Component C1 470uF
+Added Member To Class: ClassName=ec200u main Member=Component C4 1uF
+Added Member To Class: ClassName=ec200u main Member=Component C6 100NF
+Added Member To Class: ClassName=ec200u main Member=Component C7 100pF
+Added Member To Class: ClassName=ec200u main Member=Component C8 100nF
+Added Member To Class: ClassName=ec200u main Member=Component C13 100nF
+Added Member To Class: ClassName=ec200u main Member=Component C14 22pF
+Added Member To Class: ClassName=ec200u main Member=Component C16 22pf
+Added Member To Class: ClassName=ec200u main Member=Component C17 3PF
+Added Member To Class: ClassName=ec200u main Member=Component C18 100nF
+Added Member To Class: ClassName=ec200u main Member=Component D1 1n4007 SMD
+Added Member To Class: ClassName=ec200u main Member=Component D2 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component D3 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component D6 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component D9 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component D12 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component D14 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component D17 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component F1 F=1.0 A
+Added Member To Class: ClassName=ec200u main Member=Component H2 HOLE
+Added Member To Class: ClassName=ec200u main Member=Component L1 DRC-V-822K
+Added Member To Class: ClassName=ec200u main Member=Component PORGRAM1 Switch PB
+Added Member To Class: ClassName=ec200u main Member=Component Q1 MMBT3904
+Added Member To Class: ClassName=ec200u main Member=Component Q2 MMBT3904
+Added Member To Class: ClassName=ec200u main Member=Component Q4 MMBT3904
+Added Member To Class: ClassName=ec200u main Member=Component Q5 BSS138
+Added Member To Class: ClassName=ec200u main Member=Component Q8 BSS138
+Added Member To Class: ClassName=ec200u main Member=Component Q10 S8050
+Added Member To Class: ClassName=ec200u main Member=Component Q11 S8050
+Added Member To Class: ClassName=ec200u main Member=Component Q14 BSS138
+Added Member To Class: ClassName=ec200u main Member=Component R1 1K
+Added Member To Class: ClassName=ec200u main Member=Component R2 1K
+Added Member To Class: ClassName=ec200u main Member=Component R3 10K
+Added Member To Class: ClassName=ec200u main Member=Component R5 10K
+Added Member To Class: ClassName=ec200u main Member=Component R9 4.7K
+Added Member To Class: ClassName=ec200u main Member=Component R11 330
+Added Member To Class: ClassName=ec200u main Member=Component R12 330
+Added Member To Class: ClassName=ec200u main Member=Component R13 4.7K
+Added Member To Class: ClassName=ec200u main Member=Component R14 4.7K
+Added Member To Class: ClassName=ec200u main Member=Component R15 330
+Added Member To Class: ClassName=ec200u main Member=Component R17 100K
+Added Member To Class: ClassName=ec200u main Member=Component R20 2.2K
+Added Member To Class: ClassName=ec200u main Member=Component R21 4.7K
+Added Member To Class: ClassName=ec200u main Member=Component R29 47K
+Added Member To Class: ClassName=ec200u main Member=Component R32 100K
+Added Member To Class: ClassName=ec200u main Member=Component R34 0
+Added Member To Class: ClassName=ec200u main Member=Component R37 4.7K
+Added Member To Class: ClassName=ec200u main Member=Component R39 1K
+Added Member To Class: ClassName=ec200u main Member=Component R40 10K
+Added Member To Class: ClassName=ec200u main Member=Component R41 10K
+Added Member To Class: ClassName=ec200u main Member=Component R42 0
+Added Member To Class: ClassName=ec200u main Member=Component R44 1K
+Added Member To Class: ClassName=ec200u main Member=Component R45 47K
+Added Member To Class: ClassName=ec200u main Member=Component R46 47K
+Added Member To Class: ClassName=ec200u main Member=Component R47 10K
+Added Member To Class: ClassName=ec200u main Member=Component R48 10K
+Added Member To Class: ClassName=ec200u main Member=Component R50 47K
+Added Member To Class: ClassName=ec200u main Member=Component R52 47K
+Added Member To Class: ClassName=ec200u main Member=Component R55 47K
+Added Member To Class: ClassName=ec200u main Member=Component R58 10K
+Added Member To Class: ClassName=ec200u main Member=Component R61 47K
+Added Member To Class: ClassName=ec200u main Member=Component R63 10K
+Added Member To Class: ClassName=ec200u main Member=Component U1 MIC29302WU-TR
+Added Member To Class: ClassName=ec200u main Member=Component U2 LM2596S-3.3_NOPB
+Added Member To Class: ClassName=ec200u main Member=Component U4
+Added Member To Class: ClassName=ec200u main Member=Component USB1 USB Connector
+Added Room: Name=ec200u main

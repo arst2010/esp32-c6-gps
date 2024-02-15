@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=RTS Pin=Q15-1
+Removed Pin From Net: NetName=NetQ15_1 Pin=Q15-2
+Removed Pin From Net: NetName=IO2 Pin=Q16-1
+Removed Pin From Net: NetName=NetQ16_1 Pin=Q16-2
+Added Pin To Net: NetName=NetQ15_1 Pin=Q15-1
+Added Pin To Net: NetName=RTS Pin=Q15-2
+Added Pin To Net: NetName=NetQ16_1 Pin=Q16-1
+Added Pin To Net: NetName=IO2 Pin=Q16-2
+Added Room: Name=ec200u main

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=SIM1-MP1
+Removed Pin From Net: NetName=GND Pin=SIM1-MP2
+Change Component Designator: OldDesignator=R? NewDesignator=R63
+Added Member To Class: ClassName=ec200u main Member=Component R9 47K
+Added Room: Name=ec200u main

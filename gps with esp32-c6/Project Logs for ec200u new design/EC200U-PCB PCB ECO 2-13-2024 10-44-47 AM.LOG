@@ -1,0 +1,169 @@
+Change Component Footprint: Designator=USB2 Old Footprint=USB_AB_BM_SHS New Footprint=AMPHENOL_10155435-00011LF
+Added Component: Designator=J(TE_6-146281-0)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Centerline_Pitch"; Value = "2.54 mm[.1 in]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=1072867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=1072867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "6-146281-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product_Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/6-146281-0/TE%20Connectivity/view-part/1072867/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q18(TRANS_BC847B)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BC847B/Diotec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diotec Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BC847B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3 Diotec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BC847B/Diotec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q19(TRANS_BC847B)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BC847B/Diotec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diotec Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BC847B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3 Diotec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BC847B/Diotec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U8(XCVR_ESP32-C6-WROOM-1-N8)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-C6-WROOM-1-N8/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-C6-WROOM-1-N8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-C6-WROOM-1-N8/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=USB3(AMPHENOL_10155435-00011LF)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Amphenol ICC (FCI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "10155435-00011LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=USB5(AMPHENOL_10155435-00011LF)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Amphenol ICC (FCI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "10155435-00011LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y2(PCBComponent_1)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Company"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Reference"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Date"; Value = "2017-1-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "ABBAS BASEREH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount\Through-Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Unreleased"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12 MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ONEWIRE Pin=J-1
+Added Pin To Net: NetName=MISO Pin=J-2
+Added Pin To Net: NetName=MOSI Pin=J-3
+Added Pin To Net: NetName=SCK Pin=J-4
+Added Pin To Net: NetName=CS1 Pin=J-5
+Added Pin To Net: NetName=CS2 Pin=J-6
+Added Pin To Net: NetName=SCL Pin=J-7
+Added Pin To Net: NetName=SDA Pin=J-8
+Added Pin To Net: NetName=3V3 Pin=J-9
+Added Pin To Net: NetName=12V Pin=J-10
+Added Pin To Net: NetName=NetQ18_1 Pin=Q18-1
+Added Pin To Net: NetName=RTS Pin=Q18-2
+Added Pin To Net: NetName=NetQ18_3 Pin=Q18-3
+Added Pin To Net: NetName=NetQ19_1 Pin=Q19-1
+Added Pin To Net: NetName=DTR Pin=Q19-2
+Added Pin To Net: NetName=NetQ19_3 Pin=Q19-3
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Pin To Net: NetName=ESP_3V3 Pin=U8-2
+Added Pin To Net: NetName=CHIP_PU Pin=U8-3
+Added Pin To Net: NetName=MISO Pin=U8-4
+Added Pin To Net: NetName=MOSI Pin=U8-5
+Added Pin To Net: NetName=SCK Pin=U8-6
+Added Pin To Net: NetName=NetR72_1 Pin=U8-7
+Added Pin To Net: NetName=CS2 Pin=U8-8
+Added Pin To Net: NetName=TX_MAIN Pin=U8-9
+Added Pin To Net: NetName=NetR64_2 Pin=U8-10
+Added Pin To Net: NetName=SD_CS Pin=U8-11
+Added Pin To Net: NetName=CS1 Pin=U8-12
+Added Pin To Net: NetName=GPIO_N Pin=U8-13
+Added Pin To Net: NetName=GPIO_P Pin=U8-14
+Added Pin To Net: NetName=NetR66_2 Pin=U8-15
+Added Pin To Net: NetName=SCL Pin=U8-16
+Added Pin To Net: NetName=SDA Pin=U8-17
+Added Pin To Net: NetName=MAX485 EN Pin=U8-18
+Added Pin To Net: NetName=MAX485 IN Pin=U8-19
+Added Pin To Net: NetName=MAX485 OUT Pin=U8-20
+Added Pin To Net: NetName=ESP_STATUS_1 Pin=U8-21
+Added Pin To Net: NetName=ONEWIRE Pin=U8-23
+Added Pin To Net: NetName=ESP_MAIN_RX Pin=U8-24
+Added Pin To Net: NetName=ESP_MAIN_TX Pin=U8-25
+Added Pin To Net: NetName=NetR71_2 Pin=U8-26
+Added Pin To Net: NetName=RX_MAIN Pin=U8-27
+Added Pin To Net: NetName=GND Pin=U8-28
+Added Pin To Net: NetName=GND Pin=U8-29_1
+Added Pin To Net: NetName=GND Pin=U8-29_2
+Added Pin To Net: NetName=GND Pin=U8-29_3
+Added Pin To Net: NetName=GND Pin=U8-29_4
+Added Pin To Net: NetName=GND Pin=U8-29_5
+Added Pin To Net: NetName=GND Pin=U8-29_6
+Added Pin To Net: NetName=GND Pin=U8-29_7
+Added Pin To Net: NetName=GND Pin=U8-29_8
+Added Pin To Net: NetName=GND Pin=U8-29_9
+Added Pin To Net: NetName=GND Pin=USB2-A1_B12
+Added Pin To Net: NetName=VBUSA Pin=USB2-A4_B9
+Added Pin To Net: NetName=NetR33_1 Pin=USB2-A5
+Added Pin To Net: NetName=USB2_P Pin=USB2-A6
+Added Pin To Net: NetName=USB2_N Pin=USB2-A7
+Added Pin To Net: NetName=GND Pin=USB2-B1_A12
+Added Pin To Net: NetName=VBUSA Pin=USB2-B4_A9
+Added Pin To Net: NetName=NetR32_2 Pin=USB2-B5
+Added Pin To Net: NetName=USB2_P Pin=USB2-B6
+Added Pin To Net: NetName=USB2_N Pin=USB2-B7
+Added Pin To Net: NetName=NetR37_1 Pin=USB2-SH1
+Added Pin To Net: NetName=NetR37_1 Pin=USB2-SH2
+Added Pin To Net: NetName=NetR37_1 Pin=USB2-SH3
+Added Pin To Net: NetName=NetR37_1 Pin=USB2-SH4
+Added Pin To Net: NetName=GND Pin=USB3-A1_B12
+Added Pin To Net: NetName=USB_VBUS Pin=USB3-A4_B9
+Added Pin To Net: NetName=NetR39_1 Pin=USB3-A5
+Added Pin To Net: NetName=USB3_P Pin=USB3-A6
+Added Pin To Net: NetName=USB3_N Pin=USB3-A7
+Added Pin To Net: NetName=GND Pin=USB3-B1_A12
+Added Pin To Net: NetName=USB_VBUS Pin=USB3-B4_A9
+Added Pin To Net: NetName=NetR38_2 Pin=USB3-B5
+Added Pin To Net: NetName=USB3_P Pin=USB3-B6
+Added Pin To Net: NetName=USB3_N Pin=USB3-B7
+Added Pin To Net: NetName=NetR40_1 Pin=USB3-SH1
+Added Pin To Net: NetName=NetR40_1 Pin=USB3-SH2
+Added Pin To Net: NetName=NetR40_1 Pin=USB3-SH3
+Added Pin To Net: NetName=NetR40_1 Pin=USB3-SH4
+Added Pin To Net: NetName=GND Pin=USB5-A1_B12
+Added Pin To Net: NetName=USB_VBUSB Pin=USB5-A4_B9
+Added Pin To Net: NetName=NetR43_1 Pin=USB5-A5
+Added Pin To Net: NetName=GPIO_P Pin=USB5-A6
+Added Pin To Net: NetName=GPIO_N Pin=USB5-A7
+Added Pin To Net: NetName=GND Pin=USB5-B1_A12
+Added Pin To Net: NetName=USB_VBUSB Pin=USB5-B4_A9
+Added Pin To Net: NetName=NetR41_2 Pin=USB5-B5
+Added Pin To Net: NetName=GPIO_P Pin=USB5-B6
+Added Pin To Net: NetName=GPIO_N Pin=USB5-B7
+Added Pin To Net: NetName=NetR44_1 Pin=USB5-SH1
+Added Pin To Net: NetName=NetR44_1 Pin=USB5-SH2
+Added Pin To Net: NetName=NetR44_1 Pin=USB5-SH3
+Added Pin To Net: NetName=NetR44_1 Pin=USB5-SH4
+Added Pin To Net: NetName=NetC27_2 Pin=Y2-1
+Added Pin To Net: NetName=NetC26_1 Pin=Y2-2
+Added Member To Class: ClassName=ec200u main Member=Component J 6-146281-0
+Added Member To Class: ClassName=ec200u main Member=Component Q18 BC847B
+Added Member To Class: ClassName=ec200u main Member=Component Q19 BC847B
+Added Member To Class: ClassName=ec200u main Member=Component U8 ESP32-C6-WROOM-1-N8
+Added Member To Class: ClassName=ec200u main Member=Component USB3 USB TYPE C 16 PIN
+Added Member To Class: ClassName=ec200u main Member=Component USB5 USB TYPE C 16 PIN
+Added Member To Class: ClassName=ec200u main Member=Component Y2 12 MHz

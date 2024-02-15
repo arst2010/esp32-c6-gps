@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=RX_MAIN Pin=IC1-8
+Added Component: Designator=R?(SMD_RES_1206)
+Add component (AddParameter): Name = "Data"; Value = "4-1-2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES Axial 0.5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TX_MAIN Pin=IC1-8
+Added Pin To Net: NetName=GPS_ON Pin=R?-2
+Change Net Name : Old Net Name=NetLabel49 New Net Name=GND
+Added Pin To Net: NetName=NetIC1_21 Pin=IC1-21
+Added Pin To Net: NetName=NetIC1_21 Pin=R?-1
+Added Net: Name=NetIC1_21
+Added Member To Class: ClassName=ec200u main Member=Component R? 0
+Added Room: Name=ec200u main

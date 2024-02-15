@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=D3-K
+Add Pin To Net: Unknown Pin: Pin D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=L2-2
+Added Pin To Net: NetName=NetD3_2 Pin=U1-2
+Added Net: Name=NetD3_2
+Added Room: Name=ec200u main

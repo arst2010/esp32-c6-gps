@@ -1,0 +1,109 @@
+Change Footprint: Footprint Not Found AMPHENOL_10155435-00011LF
+Add Component: Footprint Not Found TE_6-146281-0
+Add Component: Footprint Not Found TRANS_BC847B
+Add Component: Footprint Not Found TRANS_BC847B
+Add Component: Footprint Not Found XCVR_ESP32-C6-WROOM-1-N8
+Add Component: Footprint Not Found AMPHENOL_10155435-00011LF
+Add Component: Footprint Not Found AMPHENOL_10155435-00011LF
+Add Component: Footprint Not Found PCBComponent_1
+Add Pin To Net: Unknown Pin: Pin J-2
+Add Pin To Net: Unknown Pin: Pin J-3
+Add Pin To Net: Unknown Pin: Pin J-4
+Add Pin To Net: Unknown Pin: Pin J-5
+Add Pin To Net: Unknown Pin: Pin J-6
+Add Pin To Net: Unknown Pin: Pin J-7
+Add Pin To Net: Unknown Pin: Pin J-8
+Add Pin To Net: Unknown Pin: Pin J-9
+Add Pin To Net: Unknown Pin: Pin J-10
+Add Pin To Net: Unknown Pin: Pin Q18-1
+Add Pin To Net: Unknown Pin: Pin Q18-2
+Add Pin To Net: Unknown Pin: Pin Q18-3
+Add Pin To Net: Unknown Pin: Pin Q19-1
+Add Pin To Net: Unknown Pin: Pin Q19-2
+Add Pin To Net: Unknown Pin: Pin Q19-3
+Add Pin To Net: Unknown Pin: Pin U8-1
+Add Pin To Net: Unknown Pin: Pin U8-2
+Add Pin To Net: Unknown Pin: Pin U8-3
+Add Pin To Net: Unknown Pin: Pin U8-4
+Add Pin To Net: Unknown Pin: Pin U8-5
+Add Pin To Net: Unknown Pin: Pin U8-6
+Add Pin To Net: Unknown Pin: Pin U8-7
+Add Pin To Net: Unknown Pin: Pin U8-8
+Add Pin To Net: Unknown Pin: Pin U8-9
+Add Pin To Net: Unknown Pin: Pin U8-10
+Add Pin To Net: Unknown Pin: Pin U8-11
+Add Pin To Net: Unknown Pin: Pin U8-12
+Add Pin To Net: Unknown Pin: Pin U8-15
+Add Pin To Net: Unknown Pin: Pin U8-16
+Add Pin To Net: Unknown Pin: Pin U8-17
+Add Pin To Net: Unknown Pin: Pin U8-18
+Add Pin To Net: Unknown Pin: Pin U8-19
+Add Pin To Net: Unknown Pin: Pin U8-20
+Add Pin To Net: Unknown Pin: Pin U8-21
+Add Pin To Net: Unknown Pin: Pin U8-24
+Add Pin To Net: Unknown Pin: Pin U8-25
+Add Pin To Net: Unknown Pin: Pin U8-26
+Add Pin To Net: Unknown Pin: Pin U8-27
+Add Pin To Net: Unknown Pin: Pin U8-28
+Add Pin To Net: Unknown Pin: Pin U8-29_1
+Add Pin To Net: Unknown Pin: Pin U8-29_2
+Add Pin To Net: Unknown Pin: Pin U8-29_3
+Add Pin To Net: Unknown Pin: Pin U8-29_4
+Add Pin To Net: Unknown Pin: Pin U8-29_5
+Add Pin To Net: Unknown Pin: Pin U8-29_6
+Add Pin To Net: Unknown Pin: Pin U8-29_7
+Add Pin To Net: Unknown Pin: Pin U8-29_8
+Add Pin To Net: Unknown Pin: Pin U8-29_9
+Add Pin To Net: Unknown Pin: Pin USB2-A1_B12
+Add Pin To Net: Unknown Pin: Pin USB2-A4_B9
+Add Pin To Net: Unknown Pin: Pin USB2-A5
+Add Pin To Net: Unknown Pin: Pin USB2-A6
+Add Pin To Net: Unknown Pin: Pin USB2-A7
+Add Pin To Net: Unknown Pin: Pin USB2-B1_A12
+Add Pin To Net: Unknown Pin: Pin USB2-B4_A9
+Add Pin To Net: Unknown Pin: Pin USB2-B5
+Add Pin To Net: Unknown Pin: Pin USB2-B6
+Add Pin To Net: Unknown Pin: Pin USB2-B7
+Add Pin To Net: Unknown Pin: Pin USB2-SH1
+Add Pin To Net: Unknown Pin: Pin USB2-SH2
+Add Pin To Net: Unknown Pin: Pin USB2-SH3
+Add Pin To Net: Unknown Pin: Pin USB2-SH4
+Add Pin To Net: Unknown Pin: Pin USB3-A1_B12
+Add Pin To Net: Unknown Pin: Pin USB3-A4_B9
+Add Pin To Net: Unknown Pin: Pin USB3-A5
+Add Pin To Net: Unknown Pin: Pin USB3-A6
+Add Pin To Net: Unknown Pin: Pin USB3-A7
+Add Pin To Net: Unknown Pin: Pin USB3-B1_A12
+Add Pin To Net: Unknown Pin: Pin USB3-B4_A9
+Add Pin To Net: Unknown Pin: Pin USB3-B5
+Add Pin To Net: Unknown Pin: Pin USB3-B6
+Add Pin To Net: Unknown Pin: Pin USB3-B7
+Add Pin To Net: Unknown Pin: Pin USB3-SH1
+Add Pin To Net: Unknown Pin: Pin USB3-SH2
+Add Pin To Net: Unknown Pin: Pin USB3-SH3
+Add Pin To Net: Unknown Pin: Pin USB3-SH4
+Add Pin To Net: Unknown Pin: Pin USB5-A1_B12
+Add Pin To Net: Unknown Pin: Pin USB5-A4_B9
+Add Pin To Net: Unknown Pin: Pin USB5-A5
+Add Pin To Net: Unknown Pin: Pin USB5-B1_A12
+Add Pin To Net: Unknown Pin: Pin USB5-B4_A9
+Add Pin To Net: Unknown Pin: Pin USB5-B5
+Add Pin To Net: Unknown Pin: Pin USB5-SH1
+Add Pin To Net: Unknown Pin: Pin USB5-SH2
+Add Pin To Net: Unknown Pin: Pin USB5-SH3
+Add Pin To Net: Unknown Pin: Pin USB5-SH4
+Add Pin To Net: Unknown Pin: Pin Y2-1
+Add Pin To Net: Unknown Pin: Pin Y2-2
+Added Pin To Net: NetName=GPIO_N Pin=D11-2
+Added Net: Name=GPIO_N
+Added Pin To Net: NetName=GPIO_P Pin=D27-2
+Added Net: Name=GPIO_P
+Added Net: Name=ONEWIRE
+Added Differential Pair: Name=GPIO
+Add Class Member: Failed to add class member : Component J 6-146281-0
+Add Class Member: Failed to add class member : Component Q18 BC847B
+Add Class Member: Failed to add class member : Component Q19 BC847B
+Add Class Member: Failed to add class member : Component U8 ESP32-C6-WROOM-1-N8
+Add Class Member: Failed to add class member : Component USB3 USB TYPE C 16 PIN
+Add Class Member: Failed to add class member : Component USB5 USB TYPE C 16 PIN
+Add Class Member: Failed to add class member : Component Y2 12 MHz

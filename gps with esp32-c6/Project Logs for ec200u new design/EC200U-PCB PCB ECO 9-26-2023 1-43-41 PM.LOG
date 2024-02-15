@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=i/O IN 1 Pin=IC1-4
+Removed Pin From Net: NetName=I/O IN 2 Pin=IC1-5
+Removed Pin From Net: NetName=I/O IN 3 Pin=IC1-6
+Removed Pin From Net: NetName=I/O IN 4 Pin=IC1-7
+Added Pin To Net: NetName=I/O OUT 1 Pin=IC1-4
+Added Pin To Net: NetName=I/O OUT 2 Pin=IC1-5
+Added Pin To Net: NetName=I/O OUT 3 Pin=IC1-6
+Added Pin To Net: NetName=I/O OUT 4 Pin=IC1-7
+Added Pin To Net: NetName=I/O OUT 5 Pin=IC1-19
+Added Pin To Net: NetName=I/O OUT 6 Pin=IC1-20
+Added Room: Name=ec200u main

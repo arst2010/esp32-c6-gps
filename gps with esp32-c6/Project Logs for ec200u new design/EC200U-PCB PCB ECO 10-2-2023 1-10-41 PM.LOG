@@ -1,0 +1,14 @@
+Added Component: Designator=MAIN ANT1(XDCR_ANT-LTE-CER-T)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ANT-LTE-CER-T/Linx%20Technologies%20Inc./view-part/2769557/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Linx Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ANT-LTE-CER-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ANT-LTE-CER-T/Linx%20Technologies%20Inc./view-part/2769557/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC17_1 Pin=MAIN ANT1-1
+Added Pin To Net: NetName=GND Pin=MAIN ANT1-2
+Added Pin To Net: NetName=GND Pin=MAIN ANT1-3
+Added Member To Class: ClassName=ec200u main Member=Component MAIN ANT1 ANT-LTE-CER-T
+Added Room: Name=ec200u main
