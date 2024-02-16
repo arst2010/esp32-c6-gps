@@ -1,0 +1,107 @@
+Removed Pin From Net: NetName=ONEWIRE Pin=P1-1
+Removed Pin From Net: NetName=MISO Pin=P1-2
+Removed Pin From Net: NetName=MOSI Pin=P1-3
+Removed Pin From Net: NetName=SCK Pin=P1-4
+Removed Pin From Net: NetName=IO11 Pin=P1-5
+Removed Pin From Net: NetName=IO8 Pin=P1-6
+Removed Pin From Net: NetName=SCL Pin=P1-7
+Removed Pin From Net: NetName=SDA Pin=P1-8
+Removed Pin From Net: NetName=GPIO_N Pin=P1-9
+Removed Pin From Net: NetName=GPIO_P Pin=P1-10
+Removed Pin From Net: NetName=ADC1 Pin=P1-11
+Removed Pin From Net: NetName=IO9 Pin=P1-12
+Removed Pin From Net: NetName=3V3 Pin=P1-13
+Removed Pin From Net: NetName=5V Pin=P1-14
+Removed Member From Class: ClassName=ec200u main Member=P1
+Added Component: Designator=I/O(HDR1X10)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=JTAG(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=PowerOut(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ONEWIRE Pin=I/O-1
+Added Pin To Net: NetName=MISO Pin=I/O-2
+Added Pin To Net: NetName=MOSI Pin=I/O-3
+Added Pin To Net: NetName=SCK Pin=I/O-4
+Added Pin To Net: NetName=IO11 Pin=I/O-5
+Added Pin To Net: NetName=IO8 Pin=I/O-6
+Added Pin To Net: NetName=SCL Pin=I/O-7
+Added Pin To Net: NetName=SDA Pin=I/O-8
+Added Pin To Net: NetName=ADC1 Pin=I/O-9
+Added Pin To Net: NetName=IO9 Pin=I/O-10
+Added Pin To Net: NetName=GPIO_P Pin=JTAG-1
+Added Pin To Net: NetName=GPIO_N Pin=JTAG-2
+Added Pin To Net: NetName=GND Pin=JTAG-3
+Added Pin To Net: NetName=3V3 Pin=PowerOut-1
+Added Pin To Net: NetName=5V Pin=PowerOut-2
+Added Pin To Net: NetName=12V Pin=PowerOut-3
+Added Pin To Net: NetName=GND Pin=PowerOut-4
+Added Member To Class: ClassName=ec200u main Member=Component C1 3PF
+Added Member To Class: ClassName=ec200u main Member=Component C2 .1uF
+Added Member To Class: ClassName=ec200u main Member=Component C4 470uF
+Added Member To Class: ClassName=ec200u main Member=Component C7 470uF
+Added Member To Class: ClassName=ec200u main Member=Component C10 100nF
+Added Member To Class: ClassName=ec200u main Member=Component C11 1UF
+Added Member To Class: ClassName=ec200u main Member=Component C12 0.1UF
+Added Member To Class: ClassName=ec200u main Member=Component C13 10UF
+Added Member To Class: ClassName=ec200u main Member=Component C19 10Uf
+Added Member To Class: ClassName=ec200u main Member=Component C21 22pF
+Added Member To Class: ClassName=ec200u main Member=Component C23 1uF 10V
+Added Member To Class: ClassName=ec200u main Member=Component D1 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component D3 1n5822
+Added Member To Class: ClassName=ec200u main Member=Component D5 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component D7 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component D10 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component D11 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component D12 1N5819HW-7-F
+Added Member To Class: ClassName=ec200u main Member=Component D16 1N5819HW-7-F
+Added Member To Class: ClassName=ec200u main Member=Component D19 PESD5V0S1BL,315
+Added Member To Class: ClassName=ec200u main Member=Component F1 F=4A
+Added Member To Class: ClassName=ec200u main Member=Component F2 F=1.0 A
+Added Member To Class: ClassName=ec200u main Member=Component H1 HOLE
+Added Member To Class: ClassName=ec200u main Member=Component I/O Header 10
+Added Member To Class: ClassName=ec200u main Member=Component JTAG Header 3
+Added Member To Class: ClassName=ec200u main Member=Component L1 6.8NH
+Added Member To Class: ClassName=ec200u main Member=Component LED1 Red
+Added Member To Class: ClassName=ec200u main Member=Component PowerOut Header 4
+Added Member To Class: ClassName=ec200u main Member=Component Q8 BC847B
+Added Member To Class: ClassName=ec200u main Member=Component Q9 BC847B
+Added Member To Class: ClassName=ec200u main Member=Component R5 2.2K
+Added Member To Class: ClassName=ec200u main Member=Component R7 4.7K
+Added Member To Class: ClassName=ec200u main Member=Component R8 330
+Added Member To Class: ClassName=ec200u main Member=Component R11 4.7K
+Added Member To Class: ClassName=ec200u main Member=Component R15 10K
+Added Member To Class: ClassName=ec200u main Member=Component R16 10K
+Added Member To Class: ClassName=ec200u main Member=Component R18 47K
+Added Member To Class: ClassName=ec200u main Member=Component R19 47K
+Added Member To Class: ClassName=ec200u main Member=Component R20 100K
+Added Member To Class: ClassName=ec200u main Member=Component R22 330
+Added Member To Class: ClassName=ec200u main Member=Component R24 10K
+Added Member To Class: ClassName=ec200u main Member=Component R25 100K
+Added Member To Class: ClassName=ec200u main Member=Component R26 1K
+Added Member To Class: ClassName=ec200u main Member=Component R27 10K
+Added Member To Class: ClassName=ec200u main Member=Component R29 0
+Added Member To Class: ClassName=ec200u main Member=Component R30 0
+Added Member To Class: ClassName=ec200u main Member=Component R31 3.3K
+Added Member To Class: ClassName=ec200u main Member=Component R32 0
+Added Member To Class: ClassName=ec200u main Member=Component R33 0
+Added Member To Class: ClassName=ec200u main Member=Component R34 10K
+Added Member To Class: ClassName=ec200u main Member=Component R35 0
+Added Member To Class: ClassName=ec200u main Member=Component R36 10K
+Added Member To Class: ClassName=ec200u main Member=Component R37 4.7K
+Added Member To Class: ClassName=ec200u main Member=Component R38 4.7K
+Added Member To Class: ClassName=ec200u main Member=Component R39 4.7K
+Added Member To Class: ClassName=ec200u main Member=Component R40 4.7K
+Added Member To Class: ClassName=ec200u main Member=Component R41 120K
+Added Member To Class: ClassName=ec200u main Member=Component R43 5.1K
+Added Member To Class: ClassName=ec200u main Member=Component R44 5.1K
+Added Member To Class: ClassName=ec200u main Member=Component U1 LM2596S-3.3_NOPB
+Added Member To Class: ClassName=ec200u main Member=Component U2 MAX485
+Added Member To Class: ClassName=ec200u main Member=Component U6 TXS0108EPWR
+Added Member To Class: ClassName=ec200u main Member=Component USB2 USB TYPE C 16 PIN
