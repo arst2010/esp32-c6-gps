@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=DEBUG OUT1-3
+Removed Pin From Net: NetName=IO8 Pin=R31-1
+Removed Member From Class: ClassName=ec200u main Member=DEBUG OUT1
+Added Pin To Net: NetName=3V3 Pin=R31-1
+Added Pin To Net: NetName=IO8 Pin=R31-2
+Added Pin To Net: NetName=IO8 Pin=U5-10
