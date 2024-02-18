@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=MISO Pin=U5-4
+Removed Pin From Net: NetName=MOSI Pin=U5-5
+Added Pin To Net: NetName=MOSI Pin=U5-4
+Added Pin To Net: NetName=MISO Pin=U5-5
+Added Member To Class: ClassName=ec200u main Member=Component U5 ESP32-C6-WROOM-1-N8
+Added Room: Name=ec200u main
