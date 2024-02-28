@@ -1,0 +1,35 @@
+Change Component Footprint: Designator=C19 Old Footprint=CAPC2012X140N New Footprint=CAPPC3528X210N
+Change Component Footprint: Designator=C24 Old Footprint=CAPC2012X140N New Footprint=CAPPC3528X210N
+Change component parameters: Designator = "C19" ("C19"); Footprint = "CAPC2012X140N"; UniqueID = "\HYHIJDKW" ("\HYHIJDKW")
+Change component parameters (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=1682882"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=1682882"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TAJB106M025RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1210 AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TAJB106M025RNJ/AVX/view-part/1682882/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "CAPC2012X140N"; UniqueID = "\AUPCDMLN" ("\AUPCDMLN")
+Change component parameters (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=1682882"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=1682882"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TAJB106M025RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1210 AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TAJB106M025RNJ/AVX/view-part/1682882/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPPC3528X210N)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=1682882"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=1682882"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TAJB106M025RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TAJB106M025RNJ/AVX/view-part/1682882/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=ec200u main Member=Component C? TAJB106M025RNJ
+Added Member To Class: ClassName=ec200u main Member=Component U5 ESP32-C6-WROOM-1-N8
+Added Room: Name=ec200u main

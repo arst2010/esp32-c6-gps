@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=C13 Old Footprint=CAPC2012X140N New Footprint=CAPPC3528X210N
+Change component parameters: Designator = "C13" ("C13"); Footprint = "CAPC2012X140N"; UniqueID = "\XWCFTKLA" ("\XWCFTKLA")
+Change component parameters (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=1682882"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=1682882"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TAJB106M025RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1210 AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TAJB106M025RNJ/AVX/view-part/1682882/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=ec200u main
